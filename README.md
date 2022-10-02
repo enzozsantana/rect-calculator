@@ -1,6 +1,20 @@
-# Getting Started with Create React App
+# React Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Calculadora criada com ReactJs
+
+![react-calculator](https://user-images.githubusercontent.com/89364741/193457981-10cd779c-9555-4032-8281-7b40f4800a21.png)
+
+## 🔗 Link para acessar
+
+<a href="https://rect-calculator.vercel.app" target="_blank">React Calculator</a>
+
+## 🖥 Tecnologias 
+
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- Git
 
 ## Available Scripts
 
